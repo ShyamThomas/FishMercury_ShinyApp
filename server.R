@@ -4,8 +4,6 @@
 #hg_agg=read.csv("Data/hg_agg.csv")
 
 
-
-
 ### Shiny dynamic session BEGINS below ###
 function(input, output, session) {
 
